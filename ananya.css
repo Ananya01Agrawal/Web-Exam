@@ -19,7 +19,7 @@
     padding: 3rem 2rem;
     text-align: center;
     background: url(./img4.jpg);
-    background: linear-gradient(rgb(15, 15, 15, 0.6), rgb(15, 15, 15, 0.6)), url(./img6.jpg) no-repeat;
+    background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(15, 15, 15, 0.973)), url(./img6.jpg) no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
